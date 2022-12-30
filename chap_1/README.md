@@ -2,6 +2,7 @@
 ## command
 ```
 echo inu,{tanuki,usi},neko
+inu,tanuki,neko inu,usi,neko
 ```
 ## usefull command
 * sed
