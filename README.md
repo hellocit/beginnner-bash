@@ -11,7 +11,7 @@ beginner-bash
 ## chap9 シェルプログラミングのデバッグ
 ## chap10 bashの管理
 ## chap11 シェルスクリプティング
-## ~~ chap12 bashの導入~~
+~~## chap12 bashの導入~~
 
 ## Appendix A~D
 
