@@ -11,8 +11,26 @@ beginner-bash
 ## chap9 シェルプログラミングのデバッグ
 ## chap10 bashの管理
 ## chap11 シェルスクリプティング
-## chap12 bashの導入
+## ~~ chap12 bashの導入~~
+
 ## Appendix A~D
 
+### keyword
+* ディレクトリ
+* ジョブ
+* チルダ
+* エイリアス
+* コマンド履歴
+* キーバインド
+### command
+* pushd
+* popd
+* dirs
+* fg
+* bg
+* test
+* expr
+* getopt
+* echo
 ## document
 https://docs.google.com/document/d/1b53TozrU2WYbrG1xgT50B_ULVHhcnVqBn1294RBqsbA/edit#heading=h.dnffz6y03q9f
